@@ -1,0 +1,47 @@
+/* start body */
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 16px;
+line-height: 1.5em;
+margin: 0;
+padding: 0;    
+}
+/* start body */
+
+/* start debug */
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color:red;
+}
+/* end debug */
+
+/* start container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+
+}
+/* end container */
+
+/* start logo */
+.logo {
+    text-align: center;
+}
+/* end logo */
+
+/* start menu primer */
+.menu-primer ul {
+    background-color: #333333;
+    border-radius: 4px;
+    box-shadow:
+    0 3px 5px -1px rgba (0,0,0,.2),
+    0 6px 10px 0 rgba (0,0,0,.14),
+    0 1px 18px 0 rgba (0,0,0,.12);
+
+}
+
+/* end menu-primer */
